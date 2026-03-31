@@ -36,19 +36,27 @@ Tenho uma trajetória que une **dados, comunicação e comportamento humano**, o
 
 ---
 
-## 📊 Projetos em destaque
+## 📊 Projeto em destaque
 
-🔹 **People Analytics End-to-End**  
-Pipeline completo com Python + SQL Server + Power BI  
-→ Modelagem dimensional, ETL, Machine Learning (turnover)
+### 🔥 People Analytics End-to-End
+Pipeline completo de análise de dados de RH, simulando um ambiente real de negócio.
 
-🔹 **Marketing Analytics Pipeline (Databricks)**  
-Ingestão Bronze → Silver → Gold  
-→ Construção de funil, eventos e análise de conversão
+- 🧱 Arquitetura completa: Python + SQL Server + Power BI  
+- 🔄 Pipeline ETL estruturado (Bronze → Silver → Gold)  
+- 📊 Modelagem dimensional (Star Schema)  
+- 🤖 Machine Learning para previsão de turnover  
+- 📈 Dashboard executivo com indicadores estratégicos  
 
-🔹 **BI Estratégico (Saúde)**  
-Análises de margem, receita e eficiência operacional  
-→ Integração entre produção, estoque e financeiro
+🔗 Acesse o projeto:  
+👉 https://github.com/lucasfp3/people-analytics-end-to-end
+
+---
+
+## 🚧 Em construção
+
+- 📊 Novo projeto de Marketing Analytics (Databricks + SQL + BI)
+- 🧠 Expansão do modelo de People Analytics (segmentação de risco)
+- 📈 Dashboard de indicadores estratégicos de negócio
 
 ---
 
