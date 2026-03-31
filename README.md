@@ -86,8 +86,9 @@ Porque no fim…
 
 ---
 
-## ⚡ GitHub Stats
+## 📊 Foco atual
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasfp3&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfp3&layout=compact&theme=radical&cache_seconds=1800)
+- 📈 People Analytics e predição de turnover
+- 🧠 Modelagem analítica aplicada ao negócio
+- ⚙️ Engenharia de dados (ETL / Databricks / SQL)
+- 📊 Construção de dashboards executivos (Power BI)
