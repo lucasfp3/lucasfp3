@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mim
 
-Transformo dados em decisões — e decisões em impacto.
+Transformo dados em decisões e decisões em impacto.
 
 Atuo como **Analista Sênior de BI na Oncoclínicas**, desenvolvendo soluções analíticas que conectam estratégia, operação e liderança. Minha atuação vai desde a engenharia de dados até a construção de dashboards executivos e definição de indicadores corporativos.
 
