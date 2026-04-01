@@ -47,8 +47,7 @@ Pipeline completo de análise de dados de RH, simulando um ambiente real de neg�
 - 🤖 Machine Learning para previsão de turnover  
 - 📈 Dashboard executivo com indicadores estratégicos  
 
-🔗 Acesse o projeto:  
-👉 https://github.com/lucasfp3/people-analytics-end-to-end
+🔗 [Acesse o projeto](https://github.com/lucasfp3/people-analytics-end-to-end)
 
 ---
 
